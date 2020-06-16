@@ -14,6 +14,7 @@
 		553A7DE72499326B00CD95F3 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 553A7DE52499326B00CD95F3 /* ColeccionDeJuegos.xcdatamodeld */; };
 		553A7DE92499328900CD95F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 553A7DE82499328900CD95F3 /* Assets.xcassets */; };
 		553A7DEC2499328900CD95F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 553A7DEA2499328900CD95F3 /* LaunchScreen.storyboard */; };
+		553A7DF42499454C00CD95F3 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 553A7DF32499454C00CD95F3 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		553A7DE82499328900CD95F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		553A7DEB2499328900CD95F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		553A7DED2499328900CD95F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		553A7DF32499454C00CD95F3 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				553A7DEA2499328900CD95F3 /* LaunchScreen.storyboard */,
 				553A7DED2499328900CD95F3 /* Info.plist */,
 				553A7DE52499326B00CD95F3 /* ColeccionDeJuegos.xcdatamodeld */,
+				553A7DF32499454C00CD95F3 /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				553A7DF42499454C00CD95F3 /* JuegosViewController.swift in Sources */,
 				553A7DE12499326B00CD95F3 /* ViewController.swift in Sources */,
 				553A7DDD2499326B00CD95F3 /* AppDelegate.swift in Sources */,
 				553A7DDF2499326B00CD95F3 /* SceneDelegate.swift in Sources */,
